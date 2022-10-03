@@ -1,3 +1,8 @@
+# Links to the deployed ecommerce application
+
+Cloudfront: https://d106l6emub8p9j.cloudfront.net
+S3: http://dnehometianov-shop-react-redux-cloudfront.s3-website-us-east-1.amazonaws.com/ (403 AccessDenied after it is configured via cloudfront)
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
